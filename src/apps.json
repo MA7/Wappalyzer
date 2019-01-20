@@ -906,6 +906,14 @@
       },
       "website": "http://www.ArvanCloud.com"
     },
+    "ZarinPal": {
+      "cats": [
+        41
+      ],
+      "script": "zarinpal\\.com/",
+      "icon": "ZarinPal.png",
+      "website": "http://www.ZarinPal.com"
+    },
     "AsciiDoc": {
       "cats": [
         1,
